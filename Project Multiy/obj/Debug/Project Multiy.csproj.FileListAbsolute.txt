@@ -1,0 +1,19 @@
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\bin\Debug\Project Multiy.exe.config
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\bin\Debug\Project Multiy.exe
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\bin\Debug\Project Multiy.pdb
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\obj\Debug\Project_Multiy.Properties.Resources.resources
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.exe
+C:\Users\USER\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.pdb
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\bin\Debug\Project Multiy.exe.config
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\bin\Debug\Project Multiy.exe
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\bin\Debug\Project Multiy.pdb
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project_Multiy.Properties.Resources.resources
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csproj.GenerateResource.cache
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.exe
+C:\Users\abdullah\source\repos\Project Multiy\Project Multiy\obj\Debug\Project Multiy.pdb
